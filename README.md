@@ -4,7 +4,7 @@
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/img-comparison-slider)
 
 Slider component for comparing images (before and after).
-
+FORK original repo
 Usage examples: [https://sneas.github.io/img-comparison-slider](https://sneas.github.io/img-comparison-slider)
 
 ![Example](docs/example.gif)
